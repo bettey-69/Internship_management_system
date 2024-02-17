@@ -1,0 +1,41 @@
+/*  CSS FOR INDEX FILE */
+body{
+    padding: 0%;
+    background-color:burlywood;
+
+}
+.login{
+	margin-left: 500px;
+    width:350px;
+    height:250px;
+    border: 1px solid brown;
+    padding:10px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 5px 2px orange;
+}
+h3{
+	text-align: center;
+	color:teal;
+	font-weight: bolder;
+}
+.left{
+	float: right;
+	margin-left: 20px;
+}
+.key{
+	margin-top: 10px;
+}
+/*  CSS FOR SIGN UP FILE */
+.register{
+    margin-left: 250px;
+    width:750px;
+    height:500px;
+    border: 1px solid red ;
+    padding:10px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 5px 2px cyan;
+}
+h2{
+	font-family: Berlin Sans FB;
+	color:brown;
+}
